@@ -4,31 +4,31 @@ import { Dialog, DialogContent } from '@/components/ui/dialog';
 const photos = [
   {
     id: 1,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/03090d7d-52d7-4260-b8d3-195e644de38d.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/5f1ef8b5-9bb4-472a-a362-043c0defbb4d.jpg',
     title: 'Тропический рай',
     location: 'Мальдивы',
   },
   {
     id: 2,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/d00a6ce9-ad91-4bf5-8c85-7e1de7dd4a67.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/0ccc3afb-db85-4e98-8505-c04737eef12d.jpg',
     title: 'Старый город',
     location: 'Прага, Чехия',
   },
   {
     id: 3,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/50762468-5151-4833-bdba-a1078e83f720.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/6dce0464-f897-410b-9a58-691f9299daed.jpg',
     title: 'Горные вершины',
     location: 'Швейцарские Альпы',
   },
   {
     id: 4,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/03090d7d-52d7-4260-b8d3-195e644de38d.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/5f1ef8b5-9bb4-472a-a362-043c0defbb4d.jpg',
     title: 'Закат на пляже',
     location: 'Бали, Индонезия',
   },
   {
     id: 5,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/d00a6ce9-ad91-4bf5-8c85-7e1de7dd4a67.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/0ccc3afb-db85-4e98-8505-c04737eef12d.jpg',
     title: 'Архитектура',
     location: 'Барселона, Испания',
   },
