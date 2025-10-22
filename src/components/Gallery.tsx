@@ -34,7 +34,7 @@ const photos = [
   },
   {
     id: 6,
-    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/50762468-5151-4833-bdba-a1078e83f720.jpg',
+    url: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/6dce0464-f897-410b-9a58-691f9299daed.jpg',
     title: 'Походы',
     location: 'Норвегия',
   },
