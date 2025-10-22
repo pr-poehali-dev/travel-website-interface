@@ -14,7 +14,7 @@ const Hero = () => {
       id="home"
       className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20"
       style={{
-        backgroundImage: 'url(https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/03090d7d-52d7-4260-b8d3-195e644de38d.jpg)',
+        backgroundImage: 'url(https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/6dce0464-f897-410b-9a58-691f9299daed.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

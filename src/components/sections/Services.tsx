@@ -11,7 +11,7 @@ const Services = () => {
       description: 'Незабываемый отдых на белоснежных пляжах с кристально чистой водой',
       price: '85 000 ₽',
       duration: '7 дней',
-      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/269fe944-a418-4f65-b1d0-45196203c683.jpg',
+      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/5f1ef8b5-9bb4-472a-a362-043c0defbb4d.jpg',
       category: 'Пляжный отдых',
       includes: ['Перелет', 'Отель 5*', 'Питание']
     },
@@ -21,7 +21,7 @@ const Services = () => {
       description: 'Активный туризм, восхождения и захватывающие панорамы',
       price: '65 000 ₽',
       duration: '5 дней',
-      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/0d6d9743-b658-4d85-a556-b778248f94ef.jpg',
+      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/6dce0464-f897-410b-9a58-691f9299daed.jpg',
       category: 'Активный отдых',
       includes: ['Гид', 'Снаряжение', 'Проживание']
     },
@@ -31,7 +31,7 @@ const Services = () => {
       description: 'Культурный тур по историческим городам и достопримечательностям',
       price: '95 000 ₽',
       duration: '10 дней',
-      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/60adeb7f-6da9-40ad-b8b5-f39741cc688b.jpg',
+      image: 'https://cdn.poehali.dev/projects/e2429a40-9f0f-4487-8d40-200b739ef9c8/files/0ccc3afb-db85-4e98-8505-c04737eef12d.jpg',
       category: 'Экскурсии',
       includes: ['Экскурсии', 'Отели 4*', 'Трансферы']
     }
